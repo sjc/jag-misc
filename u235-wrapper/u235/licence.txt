@@ -1,0 +1,27 @@
+U-235 SoundEngine - License
+
+Definitions
+*	"The Software" refers to the U-235 SoundEngine, which is provided as an assembled binary 
+object for use on the Atari Jaguar 64bit Multimedia System. 
+*	"Raptor" refers to the Raptor Game Engine by Reboot (http://reboot.atari.org).
+*	"Author(s)" refers to U-235 (http://www.u-235.co.uk).
+*	U-235 is a trading name of Hinchliffe Solutions Ltd.
+
+Licence
+This software is provided free of charge to anyone and everyone.  U-235 accepts no responsibility for 
+damage or loss by its use or misuse.  U-235 grants you the right to use this software within your own 
+works provided that:
+
+*	Clear identification of the use of this software is included within your own works, either by 
+	use of one of the approved logos provided, or textually.
+*	The identification of the use of this software must appear within the digital works in a 
+	manner that is visible to the end user and upon any physical packaging.
+*	The software may not be reverse engineered or modified without prior consent of the 
+	author(s).
+*	No source code forming any part of The Software is to be distributed without explicit 
+	permission from the author(s).
+
+In other works
+The software also forms part of Raptor, which is a licensed external work which has been approved 
+by the authors to include and distribute the software under the terms of Raptor's licence agreement.
+
